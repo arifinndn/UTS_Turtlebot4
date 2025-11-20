@@ -37,5 +37,5 @@ ros2 launch turtlebot4_viz view_robot.launch.py
 ### Jalankan node program pick & place nya yang berisi koordinat awal dan tujuan (pada turtlebot4)
 ```
 source install/setup.bash
-ros2 run turtlebot4_uts koordinat_node
+ros2 run turtlebot4_nav_uts koordinat_node
 ```
